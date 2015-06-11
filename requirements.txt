@@ -1,0 +1,2 @@
+# put all your requirements within this file
+Django >= 1.4.3
