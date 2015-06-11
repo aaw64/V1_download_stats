@@ -11,9 +11,11 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.admin',
     'django.contrib.messages',
+    'download_stats',
 )
 
 TEST_APPS = (
+    'testconf',
 )
 
 MIDDLEWARE_CLASSES = (
